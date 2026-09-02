@@ -12,7 +12,7 @@
 
 ## GitHub Repository
 
-[https://github.com/Arjunsaun07/homemart-furniture-store/](https://github.com/Arjunsaun07/homemart-furniture-store/)
+[https://github.com/ganeshmamidi07-bot/HomeMart---Furniture-Decor.git](https://github.com/ganeshmamidi07-bot/HomeMart---Furniture-Decor.git)
 
 ## About the Project
 
